@@ -1,4 +1,5 @@
 # LogFile
+Rad Studio 12 Community Edition.
 Crea fichero log simple para registrar acciones ......
 
  Al crear el logger debemos especificar el path y el nombre de fichero.
